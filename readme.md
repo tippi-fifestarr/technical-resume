@@ -1,6 +1,6 @@
 # Tippi Fifestarr's Dynamic HTML Resume
 
-This repository contains the HTML and CSS code for Tippi Fifestarr's professional resume, designed to showcase her skills and experience as a Technical Writer and Developer Relations professional in the Web3 space.
+This repository contains the HTML and CSS code for Tippi Fifestarr's professional resume, designed to showcase his skills and experience as a Technical Writer and Developer Relations professional in the Web3 space.
 
 ## Overview
 
